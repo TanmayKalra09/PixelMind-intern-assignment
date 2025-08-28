@@ -37,22 +37,6 @@ A responsive e-commerce product listing page built with **Next.js**, **React Que
 - [Zod](https://zod.dev/) - Schema validation
 - [Fake Store API](https://fakestoreapi.com/) - Product Data
 
-## 📂 Folder Structure
-/app
-├─ page.jsx              # Main Product Listing Page
-├─ components/           # UI Components
-│   ├─ ProductCard.jsx
-│   ├─ ProductModal.jsx
-│   ├─ SearchBar.jsx
-│   ├─ FilterBar.jsx
-│   ├─ AddProductForm.jsx
-│   ├─ CartIcon.jsx
-├─ store/
-│   └─ useStore.js       # Zustand Global State
-├─ utils/
-│   └─ fetcher.js        # API fetcher with React Query
-├─ styles/
-│   └─ globals.css       # Global Styles (Tailwind)
 
 ## 🔗 API Endpoints
 - **Get All Products**: `https://fakestoreapi.com/products`
