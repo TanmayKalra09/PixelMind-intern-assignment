@@ -1,4 +1,4 @@
-# Next.js E-Commerce Product Listing Page
+# Tanmay Kalra Frontend Internship Assignment for Pixel Mind
 
 A responsive e-commerce product listing page built with **Next.js**, **React Query**, **Zustand**, **Tailwind CSS**, **React Hook Form**, and **Zod**.
 
