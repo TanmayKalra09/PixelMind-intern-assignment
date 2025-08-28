@@ -2,7 +2,8 @@
 
 ## Live Demo
 
-https://github.com/user-attachments/assets/f35c097e-a172-4bee-80bb-c8a35fbf8697
+https://github.com/user-attachments/assets/2edb4395-d269-4f92-8869-2b6bafecf502
+
 
 
 
