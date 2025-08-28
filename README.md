@@ -1,5 +1,11 @@
 # Tanmay Kalra Frontend Internship Assignment for Pixel Mind
 
+## Live Demo
+
+https://github.com/user-attachments/assets/f35c097e-a172-4bee-80bb-c8a35fbf8697
+
+
+
 A responsive e-commerce product listing page built with **Next.js**, **React Query**, **Zustand**, **Tailwind CSS**, **React Hook Form**, and **Zod**.
 
 ## 🚀 Features
